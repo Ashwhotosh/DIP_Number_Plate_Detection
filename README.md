@@ -1,4 +1,4 @@
-# Advanced Indian Number Plate Recognition (ANPR)
+# Indian Number Plate Recognition (ANPR)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
