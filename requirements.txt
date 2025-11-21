@@ -1,0 +1,11 @@
+opencv-python
+Pillow
+pytesseract
+numpy
+easyocr
+opencv-python
+numpy
+opencv-python
+numpy
+paddlepaddle
+paddleocr>=2.0.1
